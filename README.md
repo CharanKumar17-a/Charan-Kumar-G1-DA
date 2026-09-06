@@ -34,7 +34,7 @@
 - **Course Opted:** G1 – Data Analytics
 - **Instructor Name:** Mr. Bhargavesh Dakka
 - **Instructor Name:** Ms. Nithyasri Kannathal
-- **Duration:** 8 Months
+- **Duration:** 6 Months
 
 ---
 
@@ -89,7 +89,9 @@ The system is designed to support decision-making through transparent and reprod
 
 - **Live Decision Support System:** [Vision Zero Chicago Dashboard](https://vision-zero-chicago-charan.streamlit.app/)
 
-- **Project Report:** Add your uploaded PDF link here after uploading the final report to this repository.
+- **Project Report:**<a href="./Sure%20Trust%20%20Project%20report.pdf" target="_blank">
+    <strong>→ View Full Project Report (PDF)</strong>
+</a>
 
 ---
 
