@@ -101,7 +101,7 @@ Most importantly, I learned that successful data analytics is not only about gen
 </p>
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="[<!-- Add link to full report -->](https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/blob/c5514b679afde089bf6a5c8f4c756fbe7ae5c458/Sure%20Trust%20%20Project%20report.pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -109,54 +109,51 @@ Most importantly, I learned that successful data analytics is not only about gen
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- [Vision Zero Chicago Project Repository](https://github.com/CharanKumar17-a/vision-zero-chicago)
+- [Live Vision Zero Chicago Decision Support System](https://vision-zero-chicago-charan.streamlit.app/)
+- [Chicago Data Portal](https://data.cityofchicago.org/)
+- [FHWA Crash Modification Factors Clearinghouse](https://www.cmfclearinghouse.fhwa.dot.gov/)
+- [USDOT Benefit-Cost Analysis Guidance](https://www.transportation.gov/office-policy/transportation-policy/benefit-cost-analysis-guidance)
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+The Life Skills Training (LST) and Soft Skills Training (SST) sessions played an important role in my overall personal and professional development during the internship. These weekly sessions emphasized discipline, consistency, leadership, time management, adaptability, and maintaining a positive attitude.
+
+The sessions also helped improve my communication and presentation skills through active listening, group discussions, and structured presentations. I gained greater confidence in expressing my ideas professionally and learned how to approach interviews, including explaining my resume and handling HR and technical questions with confidence.
+
+Additionally, LST and SST highlighted the importance of teamwork, professional ethics, adaptability, and leadership in the workplace. Overall, these sessions strengthened my confidence, professionalism, communication skills, and readiness to face real-world academic and corporate challenges.
 ---
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+I believe that helping others, sharing knowledge, and supporting the community in small ways can make a meaningful difference. This has helped me become more responsible, empathetic, and aware of the importance of contributing beyond personal growth.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in community-oriented activities and interactions that encouraged collaboration, knowledge sharing, and supporting others in their learning journey. These experiences helped me understand the value of working together and contributing positively to the people around me.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Tree Plantation Drive** – Participated in planting trees around my local garden area and near my home, contributing in a small way to improving the environment and green spaces.
 
-<!-- you can write impacts according to your experience in your words-->
+- **Helping Elder Citizens** – Helped elderly individuals with simple daily needs and provided assistance around community areas near temples and mosques. This experience helped me understand the importance of kindness, respect, and supporting people in the community.
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Contributed to a greener and cleaner environment by participating in tree plantation activities around my local area and home.
+
+- Provided simple assistance and support to elderly people in community areas near temples and mosques.
+
+- These activities helped me develop greater empathy, social responsibility, communication skills, and awareness of the importance of helping others.
 
 ### **Photos**
 
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
-
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/user-attachments/assets/5f7e80a6-8c1d-48dd-8919-923b9b4a431e"alt="Community Service Photo " width="30%">
+<img src="https://github.com/user-attachments/assets/5ca620c1-f5dc-4c85-9e7b-dc8376ef058c" alt="Planation " width="30%">
+
 </div>
 
 ---
@@ -175,7 +172,12 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+I would like to express my sincere gratitude to everyone who supported and guided me throughout this internship and project journey.
+
+- **Mr. Bhargavesh Dakka** – GenAI Consultant, Deloitte – For guidance, mentorship, and professional insights.
+- **Ms. Nithyasri Kannathal** – Mentor, Predigle – For valuable support and guidance throughout the learning journey.
+- **Sure Trust** – For providing the internship opportunity, training, and platform to develop practical skills.
+- **LST and SST Trainers** – For helping improve my communication, professional skills, confidence, and personal development.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
