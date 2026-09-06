@@ -1,6 +1,6 @@
 # Charan-Kumar-G1-DA
 
-### Sure ProEd Data Analytics Capstone Project – Vision Zero Chicago Decision Support System
+### Sure ProEd Data Analytics Capstone Project – **Vision Zero Chicago — Safety Capital Investment Prioritization** is a data-driven project designed to help prioritize road-safety investments across Chicago's high-crash corridors.
 
 <div align="center">
 
