@@ -9,7 +9,6 @@ width="180"
 height="220"
 alt="Logo - SURE ProEd"
 src="https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721"
-style="border-radius: 10px;"
 />
 
 <h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">
@@ -231,21 +230,9 @@ During my internship period, I participated in community-oriented activities to 
 
 ### **Photos**
 
-<div align="center">
+![Community Service - Tree Plantation](./community%20services/IMG_20260911_191914.jpg.jpeg)
 
-<img
-src="https://github.com/user-attachments/assets/90a6e65e-b81f-4f5a-9adb-06e69ce83861"
-alt="Community Service Activity"
-width="31%"
->
-
-<img
-src="https://github.com/user-attachments/assets/b18aae21-fb80-494a-a834-5e85c2acb9ee"
-alt="Community Service Activity"
-width="31%"
->
-
-</div>
+![Community Service - Helping Elder Citizens](./community%20services/IMG_20260911_192033.jpg.jpeg)
 
 ---
 
