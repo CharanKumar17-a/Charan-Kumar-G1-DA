@@ -34,8 +34,6 @@ Skill Upgradation for Rural Youth Empowerment Trust
 
 <p><strong>College ID:</strong> 23R15A6710</p>
 
-<p><strong>College Email ID:</strong> 23r15a6710@gcet.edu.in</p>
-
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
