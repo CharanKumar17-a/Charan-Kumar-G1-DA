@@ -216,16 +216,11 @@ During my internship period, I participated in community-oriented activities to 
 
 <div align="center">
 
-<a href="https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/1#issue-5366957596">
-<img src="community%20servcies/IMG_20260911_192033.jpg.jpeg" alt="Community Service - Helping Elder Citizens" width="31%">
-</a>
+[![Community Service - Helping Elder Citizens](IMG_20260911_192033.jpg)](https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/1#issue-5366957596)
 
-<a href="https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/2#issue-5366984968">
-<img src="community%20servcies/IMG_20260911_191914.jpg.jpeg" alt="Community Service - Tree Plantation" width="31%">
-</a>
+[![Community Service - Tree Plantation](IMG_20260911_191914.jpg)](https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/2#issue-5366984968)
 
 </div>
-
 
 ## **Certificate**
 
