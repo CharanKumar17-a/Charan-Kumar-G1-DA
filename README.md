@@ -1,7 +1,3 @@
-# Charan-Kumar-G1-DA
-
-### SURE ProEd Data Analytics Capstone Project – **Vision Zero Chicago — Safety Capital Investment Prioritization**
-
 <div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
 
 <img
@@ -180,13 +176,9 @@ I sincerely acknowledge **SURE Trust / SURE ProEd** for providing the opportunit
 ## **References**
 
 - [Vision Zero Chicago Project Repository](https://github.com/CharanKumar17-a/vision-zero-chicago)
-
 - [Live Vision Zero Chicago Decision Support System](https://vision-zero-chicago-charan.streamlit.app/)
-
 - [Chicago Data Portal](https://data.cityofchicago.org/)
-
 - [FHWA Crash Modification Factors Clearinghouse](https://www.cmfclearinghouse.fhwa.dot.gov/)
-
 - [U.S. Department of Transportation](https://www.transportation.gov/)
 
 ---
@@ -210,7 +202,6 @@ During my internship period, I participated in community-oriented activities to 
 ### **Activities Involved**
 
 - **Tree Plantation Drive** – Participated in planting trees around my local garden area and near my home, contributing in a small way to a greener and healthier environment.
-
 - **Helping Elder Citizens** – Provided simple assistance and support to elderly individuals in community areas near temples and mosques whenever help was needed.
 
 ### **Impact / Contribution**
@@ -249,6 +240,11 @@ During my internship period, I participated in community-oriented activities to 
 </tr>
 </table>
 
+### **Community Service Documentation (GitHub Issues)**
+
+- [GitHub Issue #2 – Community Service Documentation](https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/2#issue-5366984968)
+- [GitHub Issue #1 – Community Service Documentation](https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/1#issue-5366957596)
+
 ---
 
 ## **Certificate**
@@ -278,11 +274,8 @@ width="70%"
 I would like to express my sincere gratitude to everyone who supported and guided me throughout my learning and project journey.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) – Executive Director and Founder of [SURE Trust](https://www.suretrustforruralyouth.com/).
-
 - **Mr. Bhargavesh Dakka** – GenAI Consultant at Deloitte, for his guidance, professional insights, encouragement, and support throughout the learning journey.
-
 - **Ms. Nithyasri Kannathal** – Software Development Engineer II at Predigle, for her valuable guidance, technical support, and encouragement.
-
 - **SURE ProEd** – For providing a valuable learning opportunity, structured training, mentorship, and a practical platform to develop my technical and professional skills.
 
 I am sincerely thankful to all the trainers, mentors, and the SURE ProEd team for their support and for giving me the opportunity to learn, grow, and gain practical experience during this journey.
