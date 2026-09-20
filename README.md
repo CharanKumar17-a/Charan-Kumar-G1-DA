@@ -1,6 +1,8 @@
 # Charan-Kumar-G1-DA
 
-### Sure ProEd Data Analytics Capstone Project – **Vision Zero Chicago — Safety Capital Investment Prioritization** is a data-driven project designed to help prioritize road-safety investments across Chicago's high-crash corridors.
+### SURE ProEd Data Analytics Capstone Project – **Vision Zero Chicago — Safety Capital Investment Prioritization**
+
+A data-driven decision-support project developed as part of the SURE ProEd Data Analytics Capstone to support the prioritization of road-safety capital investments across Chicago's high-crash corridors.
 
 <div align="center">
 
@@ -25,15 +27,13 @@
 - **Email ID:** charankumar2032@gmail.com
 - **College Name:** Geetanjali College of Engineering and Technology
 - **Branch / Specialization:** Data Science
-- **College ID:** 23r15a6710@gmail.com
 
 ---
 
 # Course Details
 
 - **Course Opted:** G1 – Data Analytics
-- **Instructor:** Mr. Bhargavesh Dakka
-- **Instructor:** Ms. Nithyasri Kannathal
+- **Mentors / Trainers:** Mr. Bhargavesh Dakka and Ms. Nithyasri Kannathal
 - **Duration:** 6 Months
 
 ---
@@ -56,7 +56,7 @@
 
 - [Overall Learning](#overall-learning)
 - [Projects Completed](#projects-completed)
-- [Project Introduction](#project-introduction)
+- [About the Project](#about-the-project)
 - [Project Links](#project-links)
 - [References](#references)
 - [Learnings from LST and SST](#learnings-from-lst-and-sst)
@@ -74,21 +74,49 @@ I strengthened my ability to identify meaningful trends, patterns, and insights 
 
 Through project work and mentor feedback, I improved my **problem-solving, analytical thinking, documentation, and communication skills**. Most importantly, I learned that successful data analytics is not only about generating results but also about validating findings and presenting insights clearly to support better decision-making.
 
+The capstone project further helped me understand how analytics can move beyond descriptive reporting and be used to support complex real-world decisions involving **forecasting, optimization, economic evaluation, equity, and governance**.
+
 ---
 
 # Projects Completed
 
 ## Project 1: Vision Zero Chicago — Safety Capital Investment Prioritization
 
+**Data Analytics Capstone Project**
+
 ---
 
-# Project Introduction
+# About the Project
 
-**Vision Zero Chicago** is a data-driven decision-support system designed to help prioritize road-safety investments across Chicago's high-crash corridors.
+**Vision Zero Chicago — Safety Capital Investment Prioritization** is a data-driven decision-support system developed as part of the **SURE ProEd Data Analytics Capstone**.
 
-The project uses historical crash data, risk forecasting, FHWA safety treatments, benefit-cost analysis, and optimization techniques to recommend an efficient and equitable allocation of limited capital budgets while supporting transportation engineers and city decision-makers.
+The project was completed during the **industry-oriented project period organized by SURE Trust**, from **July 2026 to September 2026**, under the mentorship of **Mr. Bhargavesh Dakka** and **Ms. Nithyasri Kannathal**. The project provided hands-on experience in developing an industry-relevant analytics solution for a real-world public-sector decision problem.
 
-The system is designed to support decision-making through transparent and reproducible analysis. Final engineering feasibility, project approval, and implementation remain the responsibility of professional transportation engineers and City authorities.
+The project addresses a practical road-safety investment question:
+
+> **Which combination of corridor-level road-safety investments should be prioritized under limited capital budgets while meeting defined equity requirements?**
+
+The system analyzes historical Chicago traffic-crash data across **43 designated High-Crash Corridors** and connects multiple stages of analytics into a single decision-support framework.
+
+The analytical workflow includes:
+
+**Historical Crash Data → Geospatial Analysis → Risk Forecasting → Safety Treatment Evaluation → Benefit-Cost Analysis → Portfolio Optimization → Interactive Decision Support**
+
+The project processes historical crash data from **2018–2025** and develops a corridor-month analytical panel to estimate future crash risk. It evaluates evidence-based safety treatments including:
+
+- Pedestrian Refuge Islands
+- Road Diets / 4-to-3 Lane Conversions
+- Rectangular Rapid Flashing Beacons (RRFBs)
+
+Treatment benefits are evaluated using **FHWA Crash Modification Factors**, while long-term societal benefits are estimated using benefit-cost analysis methods.
+
+A **Mixed-Integer Linear Programming (MILP)** optimization model is then used to evaluate investment portfolios under different budget and equity constraints.
+
+The final solution is delivered through an interactive **Streamlit Decision Support System**, allowing stakeholders to explore portfolio recommendations, corridor-level results, and what-if planning scenarios.
+
+The project is designed to provide a **transparent, reproducible, and evidence-based planning framework**. It supports decision-making but does not replace professional transportation engineering judgment, field verification, government approval, or final infrastructure investment decisions.
+
+I would like to sincerely acknowledge **SURE Trust / SURE ProEd** for providing the opportunity to work on this industry-relevant capstone project and gain practical experience in Data Analytics and Public Safety Analytics.
 
 ---
 
@@ -214,13 +242,13 @@ The internship certificate will be added after it is officially issued upon succ
 
 I would like to express my sincere gratitude to everyone who supported and guided me throughout my learning and project journey.
 
-- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) – Executive Director and Founder of [SURE Trust](https://www.suretrustforruralyouth.com/).
+- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) – Executive Director and Founder of [SURE Trust](https://www.suretrustforruralyouth.com/), for providing students with opportunities to gain practical and industry-relevant experience.
 
-- **Mr. Bhargavesh Dakka** – GenAI Consultant at Deloitte, for his guidance, professional insights, encouragement, and support throughout the learning journey.
+- **Mr. Bhargavesh Dakka** – GenAI Consultant at Deloitte, for his guidance, professional insights, encouragement, and support throughout the learning and project journey.
 
-- **Ms. Nithyasri Kannathal** – Software Development Engineer II at Predigle, for her valuable guidance, technical support, and encouragement.
+- **Ms. Nithyasri Kannathal** – Software Development Engineer II at Predigle, for her valuable technical guidance, support, feedback, and encouragement throughout the project.
 
-- **SURE ProEd** – For providing a valuable learning opportunity, structured training, mentorship, and a practical platform to develop my technical and professional skills.
+- **SURE ProEd (formerly SURE Trust)** – For providing a structured learning environment, mentorship, practical training, and the opportunity to work on an industry-relevant Data Analytics capstone project.
 
 I am sincerely thankful to all the trainers, mentors, and the SURE ProEd team for their support and for giving me the opportunity to learn, grow, and gain practical experience during this journey.
 
