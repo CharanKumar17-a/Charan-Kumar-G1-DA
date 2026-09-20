@@ -1,4 +1,4 @@
-
+# Charan-Kumar-G1-DA
 
 ### SURE ProEd Data Analytics Capstone Project – **Vision Zero Chicago — Safety Capital Investment Prioritization**
 
@@ -36,9 +36,11 @@
 
 <p><strong>College Name:</strong> Geetanjali College of Engineering and Technology</p>
 
-<p><strong>Branch / Specialization:</strong> Data Science</p>
+<p><strong>Branch/Specialization:</strong> Data Science</p>
 
 <p><strong>College ID:</strong> 23R15A6710</p>
+
+<p><strong>College Email ID:</strong> 23r15a6710@gcet.edu.in</p>
 
 </div>
 
@@ -261,8 +263,12 @@ The internship certificate will be added after it is officially issued upon succ
 
 <p align="center">
 
-<p align="center">
-<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
+<img
+    src="PASTE_YOUR_OFFICIAL_CERTIFICATE_IMAGE_LINK_HERE"
+    alt="Internship Certificate"
+    width="80%"
+/>
+
 </p>
 
 -->
