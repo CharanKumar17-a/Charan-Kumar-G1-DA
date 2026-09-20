@@ -214,35 +214,17 @@ During my internship period, I participated in community-oriented activities to 
 
 ### **Photos**
 
-<table>
-<tr>
-<td align="center">
-<img
-src="./community%20services/IMG_20260911_191914.jpg.jpeg"
-alt="Community Service - Tree Plantation"
-width="300"
-/>
-</td>
+<div align="center">
 
-<td align="center">
-<img
-src="./community%20services/IMG_20260911_192033.jpg.jpeg"
-alt="Community Service - Helping Elder Citizens"
-width="300"
-/>
-</td>
-</tr>
+<a href="https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/1#issue-5366957596">
+<img src="community%20servcies/IMG_20260911_192033.jpg.jpeg" alt="Community Service - Helping Elder Citizens" width="31%">
+</a>
 
-<tr>
-<td align="center">
-<strong>Tree Plantation</strong>
-</td>
+<a href="https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/2#issue-5366984968">
+<img src="community%20servcies/IMG_20260911_191914.jpg.jpeg" alt="Community Service - Tree Plantation" width="31%">
+</a>
 
-<td align="center">
-<strong>Helping Elder Citizens</strong>
-</td>
-</tr>
-</table>
+</div>
 
 
 ## **Certificate**
