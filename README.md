@@ -2,65 +2,87 @@
 
 ### SURE ProEd Data Analytics Capstone Project – **Vision Zero Chicago — Safety Capital Investment Prioritization**
 
-<div align="center">
+<div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
 
-![SURE ProEd Logo](https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721)
+<img
+src="https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721"
+alt="SURE ProEd Logo"
+width="120"
+/>
 
-<h1>SURE ProEd (formerly SURE Trust)</h1>
+<h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">
+SURE ProEd (formerly SURE Trust)
+</h1>
 
-<h2>Skill Upgradation for Rural Youth Empowerment Trust</h2>
-
-</div>
-
----
-
-## **Student Details**
-
-<div align="left">
-
-**Name:** Bellam Charan Kumar
-
-**Email ID:** charankumar2032@gmail.com
-
-**College Name:** Geetanjali College of Engineering and Technology
-
-**Branch/Specialization:** Data Science
-
-**College ID:** 23R15A6710
-
-**College Email ID:** 23r15a6710@gcet.edu.in
+<h2 style="color: #2b6cb0; font-family: Arial;">
+Skill Upgradation for Rural Youth Empowerment Trust
+</h2>
 
 </div>
 
----
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-## **Course Details**
+<div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
-**Course Opted:** G1 – Data Analytics
+<h2 style="color:#333;">Student Details</h2>
 
-**Instructor:** Mr. Bhargavesh Dakka
+<div align="left" style="margin: 20px; font-size: 16px;">
 
-**Instructor:** Ms. Nithyasri Kannathal
+<p><strong>Name:</strong> Bellam Charan Kumar</p>
 
-**Duration:** 6 Months
+<p><strong>Email ID:</strong> charankumar2032@gmail.com</p>
 
----
+<p><strong>College Name:</strong> Geetanjali College of Engineering and Technology</p>
 
-## **Trainer Details**
+<p><strong>Branch/Specialization:</strong> Data Science</p>
 
-### Mr. Bhargavesh Dakka
+<p><strong>College ID:</strong> 23R15A6710</p>
 
-**Designation:** GenAI Consultant
+<p><strong>College Email ID:</strong> 23r15a6710@gcet.edu.in</p>
 
-**Organization:** Deloitte
+</div>
 
-### Ms. Nithyasri Kannathal
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-**Designation:** Software Development Engineer II
+<h2 style="color:#333;">Course Details</h2>
 
-**Organization:** Predigle
+<div align="left" style="margin: 20px; font-size: 16px;">
 
----
+<p><strong>Course Opted:</strong> G1 – Data Analytics</p>
+
+<p><strong>Instructor:</strong> Mr. Bhargavesh Dakka</p>
+
+<p><strong>Instructor:</strong> Ms. Nithyasri Kannathal</p>
+
+<p><strong>Duration:</strong> 6 Months</p>
+
+</div>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+<h2 style="color:#333;">Trainer Details</h2>
+
+<div align="left" style="margin: 20px; font-size: 16px;">
+
+<p><strong>Trainer Name:</strong> Mr. Bhargavesh Dakka</p>
+
+<p><strong>Trainer Designation:</strong> GenAI Consultant</p>
+
+<p><strong>Organization:</strong> Deloitte</p>
+
+<br>
+
+<p><strong>Trainer Name:</strong> Ms. Nithyasri Kannathal</p>
+
+<p><strong>Trainer Designation:</strong> Software Development Engineer II</p>
+
+<p><strong>Organization:</strong> Predigle</p>
+
+</div>
+
+</div>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## **Table of Contents**
 
@@ -74,7 +96,7 @@
 - [Certificate](#certificate)
 - [Acknowledgments](#acknowledgments)
 
----
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## **Overall Learning**
 
@@ -88,13 +110,16 @@ Through project work and mentor feedback, I improved my **problem-solving, analy
 
 ## **Projects Completed**
 
-<div align="left">
+<div align="left" style="margin: 20px; font-size: 16px;">
 
-**Project 1:** [Vision Zero Chicago — Safety Capital Investment Prioritization](#project1)
+<p>
+<strong><a href="#project1">Project 1:</a></strong>
+Vision Zero Chicago — Safety Capital Investment Prioritization
+</p>
 
 </div>
 
----
+<!-- Project 1 -->
 
 <h3 id="project1">Project 1: Vision Zero Chicago — Safety Capital Investment Prioritization</h3>
 
@@ -150,12 +175,18 @@ I sincerely acknowledge **SURE Trust / SURE ProEd** for providing the opportunit
 
 ---
 
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+
 ## **References**
 
 - [Vision Zero Chicago Project Repository](https://github.com/CharanKumar17-a/vision-zero-chicago)
+
 - [Live Vision Zero Chicago Decision Support System](https://vision-zero-chicago-charan.streamlit.app/)
+
 - [Chicago Data Portal](https://data.cityofchicago.org/)
+
 - [FHWA Crash Modification Factors Clearinghouse](https://www.cmfclearinghouse.fhwa.dot.gov/)
+
 - [U.S. Department of Transportation](https://www.transportation.gov/)
 
 ---
@@ -192,9 +223,31 @@ During my internship period, I participated in community-oriented activities to 
 
 ### **Photos**
 
-![Community Service - Tree Plantation](./community%20services/IMG_20260911_191914.jpg.jpeg)
+<table>
+<tr>
+<td align="center">
 
-![Community Service - Helping Elder Citizens](./community%20services/IMG_20260911_192033.jpg.jpeg)
+<img src="./community%20services/IMG_20260911_191914.jpg.jpeg" alt="Community Service - Tree Plantation" width="300">
+
+</td>
+
+<td align="center">
+
+<img src="./community%20services/IMG_20260911_192033.jpg.jpeg" alt="Community Service - Helping Elder Citizens" width="300">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>Tree Plantation</strong>
+</td>
+
+<td align="center">
+<strong>Helping Elder Citizens</strong>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -203,6 +256,20 @@ During my internship period, I participated in community-oriented activities to 
 The internship certificate will be added after it is officially issued upon successful completion of the program requirements.
 
 <!-- After receiving your official certificate, replace this section with the certificate image or PDF link. -->
+
+<!--
+
+<p align="center">
+
+<img
+src="PASTE_YOUR_OFFICIAL_CERTIFICATE_IMAGE_LINK_HERE"
+alt="Internship Certificate"
+width="70%"
+/>
+
+</p>
+
+-->
 
 ---
 
