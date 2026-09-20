@@ -4,21 +4,21 @@
 
 <div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
 
-    <img
-        width="180"
-        height="220"
-        alt="Logo - SURE ProEd"
-        src="https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721"
-        style="border-radius: 10px;"
-    />
+<img
+width="180"
+height="220"
+alt="Logo - SURE ProEd"
+src="https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721"
+style="border-radius: 10px;"
+/>
 
-  <h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">
-    SURE ProEd (formerly SURE Trust)
-  </h1>
+<h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">
+SURE ProEd (formerly SURE Trust)
+</h1>
 
-  <h2 style="color: #2b6cb0; font-family: Arial;">
-    Skill Upgradation for Rural Youth Empowerment Trust
-  </h2>
+<h2 style="color: #2b6cb0; font-family: Arial;">
+Skill Upgradation for Rural Youth Empowerment Trust
+</h2>
 
 </div>
 
@@ -91,8 +91,6 @@
 - [Overall Learning](#overall-learning)
 - [Projects Completed](#projects-completed)
 - [Project Introduction](#project-introduction)
-- [Technologies Used](#technologies-used)
-- [Roles and Responsibilities](#roles-and-responsibilities)
 - [Project Links](#project-links)
 - [References](#references)
 - [Learnings from LST and SST](#learnings-from-lst-and-sst)
@@ -129,39 +127,37 @@ Vision Zero Chicago — Safety Capital Investment Prioritization
 
 ## **Project Introduction**
 
-**Vision Zero Chicago — Safety Capital Investment Prioritization** is a transparent and reproducible, data-driven decision-support system designed to help prioritize road-safety investments across Chicago's **43 designated High-Crash Corridors**.
+**Vision Zero Chicago — Safety Capital Investment Prioritization** is a data-driven decision-support system developed as part of the **SURE ProEd Data Analytics Capstone**.
 
-The project uses historical traffic crash data from **2018–2025**, spatial analysis, crash-risk forecasting, safety treatment evaluation, benefit-cost analysis, and constrained optimization to support the prioritization of safety investments under limited capital budgets and equity requirements.
+The project was completed during the **industry-oriented project period organized by SURE Trust**, from **July 2026 to September 2026**, under the mentorship of **Mr. Bhargavesh Dakka** and **Ms. Nithyasri Kannathal**. The project provided hands-on experience in developing an industry-relevant analytics solution for a real-world public-sector decision problem.
 
-The system evaluates safety treatments including **Pedestrian Refuge Islands, Road Diets / 4-to-3 Lane Conversions, and Rectangular Rapid Flashing Beacon (RRFB) Crossings**. It combines crash-risk estimates with treatment effectiveness, economic benefits, implementation costs, budget constraints, and equity considerations to identify feasible investment portfolios.
+The project addresses a practical road-safety investment question:
 
-The project was completed during the **July 2026 – September 2026 industry-oriented project period organized by SURE Trust**, under the guidance of **Mr. Bhargavesh Dakka** and **Ms. Nithyasri Kannathal**. The project provided hands-on experience in **Data Analytics and Public Safety Analytics** while applying data-driven methods to a real-world transportation safety problem.
+> **Which combination of corridor-level road-safety investments should be prioritized under limited capital budgets while meeting defined equity requirements?**
 
-The system is intended to support transparent and reproducible planning analysis. Final engineering feasibility, project approval, and implementation decisions remain the responsibility of the appropriate transportation professionals and authorities.
+The system analyzes historical Chicago traffic-crash data across **43 designated High-Crash Corridors** and connects multiple stages of analytics into a single decision-support framework.
 
----
+### Analytical Workflow
 
+**Historical Crash Data → Geospatial Analysis → Risk Forecasting → Safety Treatment Evaluation → Benefit-Cost Analysis → Portfolio Optimization → Interactive Decision Support**
 
-## **Roles and Responsibilities**
+The project uses historical crash data from **2018–2025** and develops a corridor-month analytical panel to estimate future crash risk.
 
-During the project, I was involved in the end-to-end development of the **Vision Zero Chicago — Safety Capital Investment Prioritization** system.
+The evaluated safety treatments include:
 
-### Key Responsibilities
+- **Pedestrian Refuge Islands**
+- **Road Diets / 4-to-3 Lane Conversions**
+- **Rectangular Rapid Flashing Beacons (RRFBs)**
 
-- Defined and documented the project problem and decision-support objectives.
-- Worked with historical Chicago traffic crash data covering **2018–2025**.
-- Performed data cleaning, transformation, validation, and exploratory analysis.
-- Conducted spatial analysis to associate crash records with designated High-Crash Corridors.
-- Developed corridor-level crash forecasting and risk estimation methods.
-- Evaluated road-safety treatments using safety effectiveness and Crash Modification Factors.
-- Performed benefit-cost analysis to estimate the economic value of safety investments.
-- Developed constrained portfolio optimization to allocate limited capital budgets.
-- Incorporated equity requirements into the investment prioritization process.
-- Built an interactive **Streamlit Decision Support System** for exploring scenarios and recommendations.
-- Created visualizations and dashboards to communicate analytical results.
-- Performed testing, validation, documentation, and quality checks throughout the project.
-- Maintained the project repository and documentation using **Git and GitHub**.
-- Prepared the final project report and presentation for mentor and project evaluation.
+Treatment benefits are evaluated using **FHWA Crash Modification Factors**, while long-term societal benefits are estimated using benefit-cost analysis methods.
+
+A **Mixed-Integer Linear Programming (MILP)** optimization model is then used to evaluate investment portfolios under different budget and equity constraints.
+
+The final solution is delivered through an interactive **Streamlit Decision Support System**, allowing users to explore portfolio recommendations, corridor-level results, and what-if planning scenarios.
+
+The project is designed as a **transparent and reproducible decision-support framework**. It supports planning and analysis but does not replace professional transportation engineering judgment, field verification, government approval, or final infrastructure investment decisions.
+
+I sincerely acknowledge **SURE Trust / SURE ProEd** for providing the opportunity to work on this industry-relevant capstone project and gain practical experience in **Data Analytics and Public Safety Analytics**.
 
 ---
 
@@ -238,15 +234,15 @@ During my internship period, I participated in community-oriented activities to 
 <div align="center">
 
 <img
-    src="https://github.com/user-attachments/assets/90a6e65e-b81f-4f5a-9adb-06e69ce83861"
-    alt="Community Service Activity"
-    width="31%"
+src="https://github.com/user-attachments/assets/90a6e65e-b81f-4f5a-9adb-06e69ce83861"
+alt="Community Service Activity"
+width="31%"
 >
 
 <img
-    src="https://github.com/user-attachments/assets/b18aae21-fb80-494a-a834-5e85c2acb9ee"
-    alt="Community Service Activity"
-    width="31%"
+src="https://github.com/user-attachments/assets/b18aae21-fb80-494a-a834-5e85c2acb9ee"
+alt="Community Service Activity"
+width="31%"
 >
 
 </div>
@@ -264,9 +260,9 @@ The internship certificate will be added after it is officially issued upon succ
 <p align="center">
 
 <img
-    src="PASTE_YOUR_OFFICIAL_CERTIFICATE_IMAGE_LINK_HERE"
-    alt="Internship Certificate"
-    width="80%"
+src="PASTE_YOUR_OFFICIAL_CERTIFICATE_IMAGE_LINK_HERE"
+alt="Internship Certificate"
+width="80%"
 />
 
 </p>
