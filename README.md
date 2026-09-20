@@ -213,7 +213,6 @@ During my internship period, I participated in community-oriented activities to 
 - Learned that even small contributions can positively impact the people and environment around us.
 
 
-
 ### **Photos**
 
 <div align="center">
@@ -222,8 +221,8 @@ During my internship period, I participated in community-oriented activities to 
 <img src="IMG_20260911_192033.jpg" alt="Community Service - Helping Elder Citizens" width="450">
 </a>
 
-<a href="[https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/2#issue-5366984968](https://private-user-images.githubusercontent.com/212554344/646960433-d9c36eed-f861-4a51-abac-eaed3d7101c2.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk4OTA1NTEsIm5iZiI6MTc4OTg5MDI1MSwicGF0aCI6Ii8yMTI1NTQzNDQvNjQ2OTYwNDMzLWQ5YzM2ZWVkLWY4NjEtNGE1MS1hYmFjLWVhZWQzZDcxMDFjMi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MjBUMDc0NDExWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDA3YzJkZWZlMDk1MGY5MGI5NThjYjAwNGQ5NjBjMzQ1ODY5NjU3MDFlMzU4MzA1NzczMDRkOGY3MDQzZWM1MyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.P17NE4atWiAosaLCg04xKVLv2C9B5gnGxR4CkzkT8js)">
-<img src="IMG_20260911_191914.jpg" alt="Community Service - Tree Plantation" width="450">
+<a href="https://github.com/CharanKumar17-a/Charan-Kumar-G1-DA/issues/2#issue-5366984968">
+<img src="(https://private-user-images.githubusercontent.com/212554344/646960433-d9c36eed-f861-4a51-abac-eaed3d7101c2.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk4OTA3OTQsIm5iZiI6MTc4OTg5MDQ5NCwicGF0aCI6Ii8yMTI1NTQzNDQvNjQ2OTYwNDMzLWQ5YzM2ZWVkLWY4NjEtNGE1MS1hYmFjLWVhZWQzZDcxMDFjMi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MjBUMDc0ODE0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmViNjE3N2QxMzUwODcwOGZiZmI4YmRiOTYxNzc5MmI2YTc1OWFkM2JjYmE3NjE2OGU2MDBmM2NjMTRkNjBmMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.3XOmRfbZHEZXyoWezPoZjgbGTX47UxnWC7vguu3CyTA)" alt="Community Service - Tree Plantation" width="450">
 </a>
 
 </div>
