@@ -1,239 +1,334 @@
-# Charan-Kumar-G1-DA
-
-### SURE ProEd Data Analytics Capstone Project – **Vision Zero Chicago — Safety Capital Investment Prioritization**
-
-A data-driven decision-support project developed as part of the SURE ProEd Data Analytics Capstone to support the prioritization of road-safety capital investments across Chicago's high-crash corridors.
-
-<div align="center">
+<div align="center" style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; width: 80%; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
 
 <img
     width="180"
     height="220"
     alt="Logo - SURE ProEd"
     src="https://github.com/user-attachments/assets/88fa5098-24b1-4ece-87df-95eb920ea721"
+    style="border-radius: 10px;"
 />
 
-# SURE ProEd (formerly SURE Trust)
+<h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">
+SURE ProEd (formerly SURE Trust)
+</h1>
 
-### Skill Upgradation for Rural Youth Empowerment Trust
+<h2 style="color: #2b6cb0; font-family: Arial;">
+Skill Upgradation for Rural Youth Empowerment Trust
+</h2>
 
 </div>
 
----
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-# Student Details
+<div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
-- **Name:** Bellam Charan Kumar
-- **Email ID:** charankumar2032@gmail.com
-- **College Name:** Geetanjali College of Engineering and Technology
-- **Branch / Specialization:** Data Science
-- **College ID:** Not included
+<h2 style="color:#333;">Student Details</h2>
 
----
+<div align="left" style="margin: 20px; font-size: 16px;">
 
-# Course Details
+<p><strong>Name:</strong> Bellam Charan Kumar</p>
 
-- **Course Opted:** G1 – Data Analytics
-- **Mentor:** Mr. Bhargavesh Dakka
-- **Mentor:** Ms. Nithyasri Kannathal
-- **Duration:** 6 Months
+<p><strong>Email ID:</strong> charankumar2032@gmail.com</p>
 
----
+<p><strong>College Email ID:</strong> 23r15a6710@gcet.edu.in</p>
 
-# Trainer Details
+<p><strong>College Name:</strong> Geetanjali College of Engineering and Technology</p>
 
-### Mr. Bhargavesh Dakka
+<p><strong>Branch / Specialization:</strong> B.Tech / Data Science</p>
 
-- **Designation:** GenAI Consultant
-- **Organization:** Deloitte
+<p><strong>College ID:</strong> 23r15a6710</p>
 
-### Ms. Nithyasri Kannathal
+</div>
 
-- **Designation:** Software Development Engineer II
-- **Organization:** Predigle
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
----
+<h2 style="color:#333;">Course Details</h2>
 
-# Table of Contents
+<div align="left" style="margin: 20px; font-size: 16px;">
+
+<p><strong>Course Opted:</strong> Data Analytics G1</p>
+
+<p><strong>Instructor Name:</strong> Mr. Bhargavesh Dakka &amp; Ms. Nithyasri Kannathal</p>
+
+<p><strong>Duration:</strong> 2nd February 2026 - 9th September 2026</p>
+
+<p><strong>Project Period:</strong> July 2026 - September 2026</p>
+
+</div>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+<h2 style="color:#333;">Trainer Details</h2>
+
+<div align="left" style="margin: 20px; font-size: 16px;">
+
+<p><strong>Trainer Name:</strong> Mr. Bhargavesh Dakka</p>
+
+<p><strong>Trainer Designation:</strong> GenAI Consultant</p>
+
+<p><strong>Organization:</strong> Deloitte</p>
+
+</div>
+
+<div align="left" style="margin: 20px; font-size: 16px;">
+
+<p><strong>Trainer Name:</strong> Ms. Nithyasri Kannathal</p>
+
+<p><strong>Trainer Designation:</strong> Software Development Engineer II</p>
+
+<p><strong>Organization:</strong> Predigle</p>
+
+</div>
+
+</div>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+## **Table of Contents**
 
 - [Overall Learning](#overall-learning)
 - [Projects Completed](#projects-completed)
-- [About the Project](#about-the-project)
-- [Project Links](#project-links)
-- [References](#references)
-- [Learnings from LST and SST](#learnings-from-lst-and-sst)
+- [Project Introduction](#project-introduction)
+- [Technologies Used](#technologies-used)
+- [Roles and Responsibilities](#roles-and-responsibilities)
+- [Project Report](#project-report)
+- [Learnings from LST & SST](#learnings-from-lst--sst)
 - [Community Services](#community-services)
 - [Certificate](#certificate)
 - [Acknowledgments](#acknowledgments)
 
----
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-# Overall Learning
+## **Overall Learning**
 
-During this course, I gained valuable hands-on experience in **SQL, Python, Excel, Power BI, Databricks, and Data Analytics**. I learned how to collect, clean, transform, analyze, and validate data while focusing on the accuracy and reliability of analytical results.
+During this course, I gained hands-on experience in **SQL, Python, Excel, Power BI, Databricks, and Data Analytics**. I learned how to work with data from collection and cleaning to analysis, validation, visualization, and communication of insights.
 
-I strengthened my ability to identify meaningful trends, patterns, and insights from data and understand their practical significance. I also developed experience in building analytical workflows and communicating complex findings through clear visualizations and interactive dashboards.
+Before joining the program, I had an individual understanding of Python and SQL. Through this course, I learned how to apply these skills together to solve practical data analytics problems and understand how analytical solutions can support real-world decision-making.
 
-Through project work and mentor feedback, I improved my **problem-solving, analytical thinking, documentation, communication, and decision-making skills**. Most importantly, I learned that effective data analytics is not only about producing results but also about validating assumptions, maintaining reproducibility, and presenting insights clearly to support informed decisions.
+I also gained practical exposure to data visualization, geospatial analysis, forecasting, optimization, and documentation. The concepts and skills I learned during the program were applied directly to my final capstone project, **Vision Zero Chicago — Safety Capital Investment Prioritization**.
 
-The capstone project provided an opportunity to apply these concepts to an industry-relevant public-sector decision problem and develop an end-to-end analytics solution.
-
----
-
-# Projects Completed
-
-## Project 1: Vision Zero Chicago — Safety Capital Investment Prioritization
+Overall, this journey strengthened my analytical thinking, problem-solving, technical communication, documentation, and ability to develop end-to-end data analytics solutions.
 
 ---
 
-# About the Project
+<h2 style="color:#333;">Projects Completed</h2>
 
-**Vision Zero Chicago — Safety Capital Investment Prioritization** is a data-driven decision-support system developed as part of the **SURE ProEd Data Analytics Capstone**.
+<div align="left" style="margin: 20px; font-size: 16px;">
 
-The project was completed during the **industry-oriented project period organized by SURE Trust**, from **July 2026 to September 2026**, under the mentorship of **Mr. Bhargavesh Dakka** and **Ms. Nithyasri Kannathal**. The project provided hands-on experience in developing an industry-relevant analytics solution for a real-world public-sector decision problem.
+<p>
+<strong><a href="#project1">Project 1:</a></strong>
+Vision Zero Chicago — Safety Capital Investment Prioritization
+</p>
 
-The project addresses a practical road-safety investment question:
+</div>
 
-> **Which combination of corridor-level road-safety investments should be prioritized under limited capital budgets while meeting defined equity requirements?**
+<!-- Project 1 -->
 
-The system analyzes historical Chicago traffic-crash data across **43 designated High-Crash Corridors** and connects multiple stages of analytics into a single decision-support framework.
+<h3 id="project1">Project 1: Vision Zero Chicago — Safety Capital Investment Prioritization</h3>
 
-### Analytical Workflow
+<p>
+<strong>Vision Zero Chicago — Safety Capital Investment Prioritization</strong> is a data-driven decision-support system developed as part of the <strong>SURE ProEd Data Analytics Capstone</strong>.
+</p>
 
-**Historical Crash Data → Geospatial Analysis → Risk Forecasting → Safety Treatment Evaluation → Benefit-Cost Analysis → Portfolio Optimization → Interactive Decision Support**
+<p>
+The project focuses on prioritizing road-safety investments across <strong>43 designated High-Crash Corridors</strong> in Chicago under limited capital budgets and defined equity requirements.
+</p>
 
-The project uses historical crash data from **2018–2025** and develops a corridor-month analytical panel to estimate future crash risk.
+<p>
+The solution combines historical traffic-crash data, geospatial analysis, crash-risk forecasting, safety treatment evaluation, benefit-cost analysis, and constrained portfolio optimization to support transparent and evidence-based planning.
+</p>
 
-The evaluated safety treatments include:
+<p>
+The project was completed during the <strong>July 2026 - September 2026</strong> industry-oriented project period organized by <strong>SURE Trust</strong>, under the mentorship of <strong>Mr. Bhargavesh Dakka</strong> and <strong>Ms. Nithyasri Kannathal</strong>.
+</p>
 
-- **Pedestrian Refuge Islands**
-- **Road Diets / 4-to-3 Lane Conversions**
-- **Rectangular Rapid Flashing Beacons (RRFBs)**
+<p>
+The final solution is presented through an interactive <strong>Streamlit Decision Support System</strong> that allows users to explore corridor-level results, investment portfolios, and planning scenarios.
+</p>
 
-Treatment benefits are evaluated using **FHWA Crash Modification Factors**, while long-term societal benefits are estimated using benefit-cost analysis methods.
+<p>
+The system is designed to support planning and decision-making. Final engineering review, field verification, community engagement, government approval, and infrastructure decisions remain with the appropriate authorities.
+</p>
 
-A **Mixed-Integer Linear Programming (MILP)** optimization model is then used to evaluate investment portfolios under different budget and equity constraints.
+<!-- Add your actual internship/project image URL below -->
 
-The final solution is delivered through an interactive **Streamlit Decision Support System**, allowing users to explore portfolio recommendations, corridor-level results, and what-if planning scenarios.
+<p align="center">
 
-The project is designed as a **transparent and reproducible decision-support framework**. It supports planning and analysis but does not replace professional transportation engineering judgment, field verification, government approval, or final infrastructure investment decisions.
+<img
+    src="YOUR_ACTUAL_INTERNSHIP_OR_PROJECT_IMAGE_URL"
+    alt="Vision Zero Chicago — Safety Capital Investment Prioritization"
+    width="80%"
+/>
 
-I sincerely acknowledge **SURE Trust / SURE ProEd** for providing the opportunity to work on this industry-relevant capstone project and gain practical experience in **Data Analytics and Public Safety Analytics**.
+</p>
+
+<p align="center">
+<em>Vision Zero Chicago — Safety Capital Investment Prioritization</em>
+</p>
 
 ---
 
-# Project Links
+## **Technologies Used**
 
-### Project Repository
+### Programming & Data Analytics
 
-🔗 **GitHub Repository:**  
-[Vision Zero Chicago – Complete Project Repository](https://github.com/CharanKumar17-a/vision-zero-chicago)
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Statsmodels
+- Scikit-learn
 
-### Live Decision Support System
+### Geospatial Analysis
 
-🔗 **Live Dashboard:**  
-[Vision Zero Chicago Decision Support System](https://vision-zero-chicago-charan.streamlit.app/)
+- GeoPandas
+- Shapely
+- QGIS
+- EPSG:3435 — NAD83 / Illinois East (ftUS)
 
-### Project Report
+### Modeling & Optimization
 
-📄 **Project Report:**
+- Negative Binomial GLM
+- Empirical Bayes Shrinkage
+- Crash Modification Factors (CMFs)
+- Benefit-Cost Analysis
+- Mixed-Integer Linear Programming (MILP)
+- SciPy HiGHS Solver
+
+### Visualization & Application
+
+- Streamlit
+- Power BI
+- Plotly
+
+### Development & Quality
+
+- Git
+- GitHub
+- Jupyter
+- VS Code
+- Pytest
+
+---
+
+## **Roles and Responsibilities**
+
+As the primary project contributor, I worked on the end-to-end development of the **Vision Zero Chicago — Safety Capital Investment Prioritization** project.
+
+My responsibilities included:
+
+- Understanding and framing the road-safety investment problem.
+- Working with historical Chicago traffic-crash data.
+- Data cleaning, transformation, validation, and quality checks.
+- Performing geospatial analysis and corridor-level crash assignment.
+- Developing the analytical dataset and forecasting workflow.
+- Evaluating applicable road-safety treatments using Crash Modification Factors.
+- Performing benefit-cost analysis.
+- Developing the constrained portfolio optimization model.
+- Incorporating budget and equity requirements.
+- Building the interactive Streamlit decision-support application.
+- Creating visualizations and decision-support outputs.
+- Performing testing, validation, reconciliation, and documentation.
+- Preparing the project report and final project presentation.
+
+---
+
+## **Project Report**
 
 <a href="./Sure%20Trust%20%20Project%20report.pdf" target="_blank">
+
 <strong>→ View Full Project Report (PDF)</strong>
+
 </a>
 
+### **Project Links**
+
+- **GitHub Repository:**  
+  [Vision Zero Chicago — Safety Capital Investment Prioritization](https://github.com/CharanKumar17-a/vision-zero-chicago)
+
+- **Live Decision Support System:**  
+  [Vision Zero Chicago Streamlit Application](https://vision-zero-chicago-charan.streamlit.app/)
+
 ---
 
-# References
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
-- [Vision Zero Chicago Project Repository](https://github.com/CharanKumar17-a/vision-zero-chicago)
-
-- [Live Vision Zero Chicago Decision Support System](https://vision-zero-chicago-charan.streamlit.app/)
+## **References**
 
 - [Chicago Data Portal](https://data.cityofchicago.org/)
-
 - [FHWA Crash Modification Factors Clearinghouse](https://www.cmfclearinghouse.fhwa.dot.gov/)
-
 - [U.S. Department of Transportation](https://www.transportation.gov/)
+- [Vision Zero Chicago Project Repository](https://github.com/CharanKumar17-a/vision-zero-chicago)
 
 ---
 
-# Learnings from LST and SST
+## **Learnings from LST and SST**
 
-The Life Skills Training (LST) and Soft Skills Training (SST) sessions were an important part of my learning journey during the program. These sessions helped me improve my communication, confidence, discipline, time management, teamwork, and professional attitude.
+The LST and SST sessions gave me an opportunity to learn from experienced trainers and mentors about communication, problem-solving, teamwork, workplace professionalism, presentation, personal development, and effective use of technology.
 
-Through presentations, discussions, and practical activities, I learned how to express my ideas more clearly, listen actively to others, and approach professional situations with greater confidence. I also understood the importance of consistency, adaptability, leadership, and continuous self-improvement.
+These sessions helped me improve my confidence, communication skills, professional attitude, and ability to work effectively with others. They also helped me understand the importance of discipline, adaptability, continuous learning, and maintaining a professional approach in the workplace.
 
-I sincerely appreciate our trainers and mentors for their guidance, patience, encouragement, and support throughout these sessions. Their feedback and teaching helped me improve not only my professional skills but also my confidence and overall approach towards learning and future career opportunities.
-
-Overall, the LST and SST sessions contributed significantly to my personal growth and professional development. I am thankful for the opportunity to learn from experienced trainers and apply these skills in my future career.
+Overall, the LST and SST sessions contributed to my personal and professional development and helped me become better prepared for future career opportunities.
 
 ---
 
-# Community Services
+## **Community Services**
 
-During my internship period, I participated in community-oriented activities to contribute locally alongside my technical learning. These activities included environmental care and providing assistance to elderly individuals in my local community.
+During my internship period, I participated in community-oriented activities alongside my technical learning. These activities helped me develop a stronger sense of social responsibility and contribute to my local community.
 
-## Activities Involved
+### **Activities Involved**
 
 ### 🌱 Tree Plantation Drive
 
-Participated in planting trees around my local garden area and near my home, contributing in a small way to a greener and healthier environment.
+Participated in planting trees around my local garden area and near my home, contributing to a greener and healthier environment.
 
 ### 🤝 Helping Elder Citizens
 
 Provided simple assistance and support to elderly individuals in community areas near temples and mosques whenever help was needed.
 
----
-
-## Impact / Contribution
+### **Impact / Contribution**
 
 - Contributed to a greener and cleaner environment through tree plantation activities.
-- Provided simple assistance and support to elderly people in the community.
+- Provided assistance and support to elderly members of the community.
 - Developed empathy and a stronger sense of social responsibility.
 - Improved communication and interpersonal skills through community interaction.
-- Learned that even small contributions can positively impact the people and environment around us.
+- Learned the importance of contributing to the community alongside professional development.
 
----
-
-## Photos
+### **Photos**
 
 <div align="center">
 
 <img
     src="https://github.com/user-attachments/assets/90a6e65e-b81f-4f5a-9adb-06e69ce83861"
     alt="Community Service Activity"
-    width="250"
-/>
-
-&nbsp;&nbsp;&nbsp;
+    width="31%"
+>
 
 <img
     src="https://github.com/user-attachments/assets/b18aae21-fb80-494a-a834-5e85c2acb9ee"
     alt="Community Service Activity"
-    width="250"
-/>
+    width="31%"
+>
 
 </div>
 
 ---
 
-# Certificate
+## **Certificate**
 
-The **SURE ProEd Data Analytics Internship Certificate** will serve as official acknowledgment of my successful completion of the training and project requirements under the program.
+The **SURE ProEd Data Analytics Certificate** will serve as official acknowledgment of my successful completion of the training and project requirements under the program.
 
 The certificate will formally recognize my participation in the **Data Analytics G1 program**, practical learning, industry-oriented project work, mentorship, and successful completion of the program requirements.
 
 The official certificate will be added to this repository once it is issued by **SURE Trust / SURE ProEd**.
 
-### Certificate Status
+### **Certificate Status**
 
 **Pending Official Issuance**
 
 <!--
-After receiving the official certificate, replace the section above with the certificate image.
-
-Example:
+After receiving the official certificate, replace the section above with:
 
 <p align="center">
 
@@ -241,26 +336,22 @@ Example:
     src="YOUR_OFFICIAL_CERTIFICATE_IMAGE_URL"
     alt="SURE ProEd Data Analytics Certificate"
     width="80%"
-/>
+>
 
 </p>
 -->
 
 ---
 
-# Acknowledgments
+## **Acknowledgments**
 
-I would like to express my sincere gratitude to everyone who supported and guided me throughout my learning and project journey.
+- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) – Executive Director and Founder of [SURE Trust](https://www.suretrustforruralyouth.com/), for providing the opportunity to gain practical and industry-oriented experience.
 
-- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) – Executive Director and Founder of [SURE Trust](https://www.suretrustforruralyouth.com/), for providing the platform and opportunity to gain practical, industry-oriented experience.
+- [Mr. Bhargavesh Dakka](https://www.linkedin.com/in/bhargavesh-dakka/) – GenAI Consultant at Deloitte, for his guidance, professional insights, encouragement, and support throughout the learning and project journey.
 
-- **Mr. Bhargavesh Dakka** – GenAI Consultant at Deloitte, for his guidance, professional insights, encouragement, and support throughout the learning and project journey.
-
-- **Ms. Nithyasri Kannathal** – Software Development Engineer II at Predigle, for her valuable guidance, technical support, feedback, and encouragement.
+- [Ms. Nithyasri Kannathal](https://www.linkedin.com/in/nithyasri-kannathal/) – Software Development Engineer II at Predigle, for her valuable guidance, technical support, feedback, and encouragement.
 
 - **SURE ProEd / SURE Trust** – For providing a valuable learning opportunity, structured training, mentorship, and a practical platform to develop my technical and professional skills through an industry-relevant capstone project.
-
-I am sincerely thankful to all the trainers, mentors, and the SURE ProEd team for their support and for giving me the opportunity to learn, grow, and gain practical experience during this journey.
 
 ---
 
